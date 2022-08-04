@@ -1,0 +1,9 @@
+F:\Portifolio\LNet\Client\bin\Debug\Client.dll
+F:\Portifolio\LNet\Client\bin\Debug\Client.pdb
+F:\Portifolio\LNet\Client\bin\Debug\Message.dll
+F:\Portifolio\LNet\Client\bin\Debug\Message.pdb
+F:\Portifolio\LNet\Client\obj\Debug\LNetClient.csproj.AssemblyReference.cache
+F:\Portifolio\LNet\Client\obj\Debug\LNetClient.csproj.CoreCompileInputs.cache
+F:\Portifolio\LNet\Client\obj\Debug\LNetClient.csproj.CopyComplete
+F:\Portifolio\LNet\Client\obj\Debug\Client.dll
+F:\Portifolio\LNet\Client\obj\Debug\Client.pdb

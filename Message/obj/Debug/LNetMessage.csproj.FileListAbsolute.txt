@@ -1,0 +1,5 @@
+F:\Portifolio\LNet\Message\bin\Debug\Message.dll
+F:\Portifolio\LNet\Message\bin\Debug\Message.pdb
+F:\Portifolio\LNet\Message\obj\Debug\LNetMessage.csproj.CoreCompileInputs.cache
+F:\Portifolio\LNet\Message\obj\Debug\Message.dll
+F:\Portifolio\LNet\Message\obj\Debug\Message.pdb
